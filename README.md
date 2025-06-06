@@ -1,7 +1,6 @@
 # #66DaysOfData
 
 Tags: Dokumentasi, Post
-author: Bulan Nurlaela
 Last Update: June 6, 2025 5:13 PM
 
 # Pra kata
