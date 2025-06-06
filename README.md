@@ -77,7 +77,3 @@ Halaman ini adalah bentuk pembelajaran dan dedikasi saya terhadap minat yang say
     - [ ]  Day 61–63: Buat dokumentasi di GitHub & Notion
     - [ ]  Day 64–65: Buat post LinkedIn / Medium / blog Notion
     - [ ]  Day 66: Refleksi perjalanan #66DaysOfData & rencana belajar ke depan
-    
-    ## Timeline
-    
-    [#66DaysOfData’s Timeline](#66DaysOfData%2020ac813f9c54802fb7d8da4016d51541/#66DaysOfData%E2%80%99s%20Timeline%2020ac813f9c548093bf28c652d6ced9a5.csv)
