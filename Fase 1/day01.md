@@ -15,9 +15,7 @@ Note: Langsung lihat ringkasan saya
 - Karena kedua hal itu, Python jadi salah satu bahasa pemrograman yang paling di minati dan populer.
     
     
-    ![Sumber: www.tiobe.com](Day%201%20-%202%20%E2%80%94%20Pengenalan%20Python%2020ac813f9c54801c99c2f495674664f8/Screenshot_20250606-094955_Chrome.jpg)
-    
-    Sumber: www.tiobe.com
+    ![Sumber: www.tiobe.com](Screenshot_20250606-094955_Chrome.jpg)
     
 
 ## **Keunggulan Python**
@@ -75,23 +73,11 @@ nama-mahasiswa = "Andi"  # Error (pakai tanda minus)
 
 Aturan penamaan variabel:
 
-| Do | Example | Don't  | Example |
-| --- | --- | --- | --- |
-| Dapat berupa angka (tapi tidak di awal), huruf atau underscore (`_`) | `nama` = "Budi" 
-`_umur` = 20
-`nama_1` = “Alya”
-`umur2` = 23 | Pakai spasi atau tab | `nama lengkap` = "Budi" 
-
-# ❌ Error  |
-| Case sensitif (peka terhadap huruf besar/kecil) | Nama = "Andi"
-`nama` = "Budi"
-
-print(`Nama`) # Output: "Andi"
-print(`nama`)  # Output: "Budi"  | Pakai simbol khusus (kecuali underscore) | `nama@` = "Budi"   # ❌ Error
-`nilai-ujian` = 90  # ❌ Error
-`harga$` = 5000     # ❌ Error   |
-|  |  | Pakai keyword python (Python Reserved Words) | `if` = 10       # ❌ Error (if adalah keyword)
-`def` = "test"  # ❌ Error (def adalah keyword)   |
+| **Do**                          | **Contoh**                          | **Don't**                          | **Contoh Salah**                     | **Keterangan** |
+|----------------------------------|-------------------------------------|------------------------------------|--------------------------------------|----------------|
+| **Boleh mengandung huruf, angka (tidak di awal), atau underscore (`_`)** | `nama = "Budi"`<br>`_umur = 20`<br>`nama_1 = "Alya"`<br>`umur2 = 23` | **Jangan pakai spasi/tab** | `nama lengkap = "Budi"` | ❌ Error: Spasi tidak diperbolehkan |
+| **Case-sensitive (huruf besar/kecil berpengaruh)** | `Nama = "Andi"`<br>`nama = "Budi"`<br><br>`print(Nama)` → Output: `"Andi"`<br>`print(nama)` → Output: `"Budi"` | **Jangan pakai simbol khusus (kecuali `_`)** | `nama@ = "Budi"`<br>`nilai-ujian = 90`<br>`harga$ = 5000` | ❌ Error: Simbol seperti `@`, `-`, `$` tidak valid |
+| **Gunakan nama yang deskriptif** | `jumlah_barang = 10`<br>`total_harga = 50000` | **Jangan pakai keyword Python** | `if = 10`<br>`def = "test"` | ❌ Error: `if`, `def`, dll. adalah reserved words Python
 
 **Best practice**:
 
