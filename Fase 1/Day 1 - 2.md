@@ -183,7 +183,7 @@ Untuk memberi nilai ke variabel
             nama = "Budi"  # Variabel nama diberi string "Budi"
             ```
             
-    - **Operator Perbandingan**
+    - Operator penugasan gabungan
         
         Menggabungkan operasi matematika dengan 
         
@@ -206,7 +206,7 @@ Untuk memberi nilai ke variabel
     print(x)
     ```
     
-    - Operator Logika
+ - **Operator Logika**
     Digunakan untuk menggabungkan kondisi:
     
     | Operator | Contoh | Penjelasan |
@@ -224,9 +224,8 @@ Untuk memberi nilai ke variabel
     
     ```
     
-    - Operator Keanggotaan (Membership)
-        
-        Untuk mengecek apakah nilai ada dalam sequence:
+- **Operator Keanggotaan (Membership)** 
+  Untuk mengecek apakah nilai ada dalam sequence:
         
     
     | Operator | Contoh | Penjelasan |
@@ -243,9 +242,8 @@ Untuk memberi nilai ke variabel
     
     ```
     
-    - **Operator Identitas (Identity)**
-        
-        Mengecek apakah dua objek sama (di memory):
+- **Operator Identitas (Identity)**
+  Mengecek apakah dua objek sama (di memory):
         
     
     | Operator | Contoh | Penjelasan |
@@ -265,9 +263,8 @@ Untuk memberi nilai ke variabel
     
     ```
     
-    - **Operator Bitwise**
-        
-        Untuk operasi biner (jarang dipakai pemula):
+- **Operator Bitwise**      
+  Untuk operasi biner (jarang dipakai pemula):
         
     
     | Operator | Contoh | Penjelasan |
