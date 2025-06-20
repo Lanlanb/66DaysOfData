@@ -183,7 +183,7 @@ Untuk memberi nilai ke variabel
             nama = "Budi"  # Variabel nama diberi string "Budi"
             ```
             
-    - Operator penugasan
+    - **Operator Perbandingan**
         
         Menggabungkan operasi matematika dengan 
         
