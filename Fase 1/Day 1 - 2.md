@@ -330,7 +330,7 @@ Atau yang benar-benar ada di kepala saya saat itu juga— atau kata kunci yang d
 ## 📈 Progress
 
 - Aktivitas: Melihat dokumentasi, mencatat dan mengulang pembelajaran
-- Kode atau Proyek Mini: -
+- Latihan atau Mini Proyek: [Google Colab](https://colab.research.google.com/drive/1bvmb2DhfNTi9eY9FM_V1pkZD__UakeEM)
 
 ## 📎 Resource
 
