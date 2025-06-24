@@ -145,7 +145,7 @@ else:
 
 Pada titik ini, jika kita menggunakan contoh sebelumnya dengan mengganti beberapa blok kode `if`, hasilnya akan jauh lebih efisien. Tetapi, tetap saja ada if lain yang akan selalu diperiksa walaupun jawabannya sudah diketahui, kalaupun kita ingin mempertahankan empat kategori penilaian. Di sinilah, peran `elif` dibutuhkan.
 
-### Elif Statement
+### Elif Statement (Kondisi bertingkat**
 
 Singkatan dari *"else if"*. Digunakan untuk **menangani multiple kondisi secara berurutan.**
 
