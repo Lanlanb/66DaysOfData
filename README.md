@@ -14,7 +14,7 @@ Halaman ini adalah bentuk pembelajaran dan dedikasi saya terhadap minat yang say
     - [x]  Day 1–2: Pengenalan Python (variabel, tipe data, operasi dasar)
     - [x]  Day 3–4: Kondisi if, loop (for, while)
     - [x]  Day 5–6: Fungsi & import modul
-    - [ ]  Day 7: Pengantar Numpy (array, operasi dasar)
+    - [x]  Day 7: Pengantar Numpy (array, operasi dasar)
     - [ ]  Day 8–9: Pandas dasar (DataFrame, Series, membaca file CSV)
     - [ ]  Day 10–11: Cleaning data (missing value, filtering)
     
