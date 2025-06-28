@@ -2,7 +2,6 @@
 
 Tags: Journey
 author: Bulan Nurlaela
-Last Update: June 7, 2025 10:46 PM
 
 # 📌 Topik Hari Ini
 
@@ -149,6 +148,11 @@ Operator adalah simbol khusus yang digunakan untuk melakukan operasi pada variab
     | `//` | `10 // 3` | `3` | Pembagian bulat (**floor division**) |
     | `%` | `10 % 3` | `1` | Modulus (sisa hasil bagi) |
     | `**` | `2 ** 3` | `8` | Pangkat (**exponentiation**) |
+
+    Catatan untuk modulus memiliki beberapa ketentuan seperti berikut:
+  * `a % b` akan mengembalikan sisa pembagian a oleh b.
+  * Jika `a < b`, maka `a % b` hasilnya adalah `a` itu sendiri.
+  * Python (dan NumPy) tidak akan memaksa hasil modulus menjadi lebih kecil dari pembaginya jika tidak ada sisa.
     
     Contoh penggunaan:
     
