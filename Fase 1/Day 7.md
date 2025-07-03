@@ -2,7 +2,6 @@
 
 Tags: Journey
 author: Bulan Nurlaela
-Last Update: July 3, 2025 2:58 PM
 Cats: Data, Manajemen
 
 # 📌 Topik Hari Ini
@@ -676,7 +675,7 @@ Selain itu, pada penerapan operasi aritmatika dalam Numpy juga terdapat konsep a
         
         Syntax di atas adalah contoh  penggunaan operator logika pada Numpy. Jika diperjelas, masing-masing perintah `print()` ingin menampilkan operasi (wise element ) terhadap semua elemen di aray `a`. Sebagai referensi, saya juga melampirkan tabel kebenaran.
         
-        ![Tabel kebenaran](Day%207%20%E2%80%94%20Pengantar%20Numpy%2021ec813f9c548003b018f078c748c696/IMG-20250625-WA0003.jpg)
+        ![Tabel kebenaran](https://github.com/Lanlanb/66DaysOfData/blob/ccb8e186b93d658754cffb0fcb5d7da1e48a1849/Fase%201/Sources/tabel%20kebenaran.jpg)
         
         Sumber: pribadi
         
